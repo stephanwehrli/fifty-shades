@@ -1,7 +1,7 @@
 ---
 authorName: Stephan Wehrli
 authorGithubUsername: stephanwehrli
-issue: 8
+issue: 1
 title: Examples are Essential
 ---
 # {{page.title}}
